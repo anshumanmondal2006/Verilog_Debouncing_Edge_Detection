@@ -56,4 +56,4 @@ This project focuses on designing and implementing FSM-based modules for debounc
 
 For further queries, contact:  
 Email: [anshuman.mondal@iitg.ac.in]  
-LinkedIn: [github.com/anshumanmondal2006](https://github.com/anshumanmondal2006)
+LinkedIn: [linkedin.com/in/anshuman2006](https://www.linkedin.com/in/anshuman2006/)
