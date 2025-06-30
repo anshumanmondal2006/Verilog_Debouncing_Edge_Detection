@@ -50,25 +50,6 @@ This project focuses on designing and implementing FSM-based modules for debounc
 
 ---
 
-<!--
-## 📄 License
-
-This project is licensed under the **MIT License**. -->
-
----
-
-## 👤 Author
-
-**Anshuman Mondal**  
-📧 Email: [anshuman.mondal@iitg.ac.in]  
-🔗 GitHub: [github.com/anshumanmondal2006](https://github.com/anshumanmondal2006)
-
-### 🧱 System Schematic
-
-<img src="assets/diagram.png" alt="FSM and Debounce Diagram" width="850"/>
-
----
-
 ## 📄 License
 
 ## This project is licensed under the **MIT License**.
